@@ -89,7 +89,6 @@ export default function WebPLPWithFilterPage() {
                   </div>
                 </div>
                 <SelectBox
-                  menuPortalTarget={document.getElementById("menuPortalTarget")}
                   shape="square"
                   indicator={
                     <Img

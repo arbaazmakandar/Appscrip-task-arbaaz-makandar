@@ -20,7 +20,6 @@ const Input = React.forwardRef(
       name = "",
       placeholder = "",
       type = "text",
-      children,
       label = "",
       prefix,
       suffix,
